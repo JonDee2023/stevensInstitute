@@ -23,3 +23,11 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold
 }
+
+.itm{
+    color:white
+}
+
+#itm1{
+    margin-left: 75px;
+}
