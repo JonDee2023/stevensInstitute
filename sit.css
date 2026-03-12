@@ -40,3 +40,7 @@ body {
 .itm:hover{
     text-decoration: underline;
 }
+
+#logo-img{
+    width:25%
+}
